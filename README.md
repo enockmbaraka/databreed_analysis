@@ -9,5 +9,6 @@
 ## Data Collection and Preparation
 
 ### Descriptive Statistics
-**Water Sources:**
-**Queue Times:**
+Water Sources:
+
+Queue Times:
